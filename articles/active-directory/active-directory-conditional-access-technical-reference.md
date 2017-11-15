@@ -169,7 +169,6 @@ The following mobile apps and desktop clients support conditional access for Off
 ## Approved client app requirement 
 
 Control client connections by using the **Require approved client app** option in your conditional access policy. Access is granted only when a connection attempt is made by an approved client app.
-
 ![Control access for approved client apps](./media/active-directory-conditional-access-technical-reference/21.png)
 
 The following client apps can be used with the approved client application requirement:
@@ -193,6 +192,10 @@ The following client apps can be used with the approved client application requi
 - Microsoft Visio
 
 - Microsoft Word
+
+- Microsoft Planner
+
+- Microsoft Azure Information Protection
 
 
 **Remarks**
